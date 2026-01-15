@@ -72,9 +72,10 @@
 
 ## 📌 Featured Projects
 
-- 🔐 **End-to-End-Quality-Prediction-MLOps** - https://github.com/Tushar973/End-to-End-Quality-Prediction-MLOps 
-- 🧠 **NLP-WEBAPP** - https://github.com/Tushar973/NLP-WEBAPP
-- 🎵 **AI-RESUME-ANALYZER** - https://github.com/Tushar973/AI-RESUME-ANALYZER
+-  **End-to-End-Quality-Prediction-MLOps** - https://github.com/Tushar973/End-to-End-Quality-Prediction-MLOps 
+-  **Streamlit-based RAG Configurator & Analyzer** - https://github.com/Tushar973/rag-optimizer
+-  **AI-RESUME-ANALYZER** - https://github.com/Tushar973/AI-RESUME-ANALYZE
+-  **Credit Card Default Prediction** - https://github.com/Tushar973/Credit-Card-Default-Prediction
 
 
 ---
